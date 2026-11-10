@@ -1,7 +1,7 @@
-## Bakhyt Zhumatay
-Quantitative Education Researcher | Causal Inference | Educational Leadership
+# Bakhyt Zhumatay
+**Quantitative Education Researcher | Causal Inference | Educational Leadership**
 
-# About Me
+## About Me
 I am a Ph.D. candidate in K–12 Educational Administration at Michigan State University, specializing in quantitative education research, causal inference, and educational leadership.
 
 My research uses longitudinal administrative and survey data to study educational organizations, leadership, and policy. My methodological experience includes quasi-experimental designs, stacked difference-in-differences, panel-data methods, propensity-score weighting, competing-risks models, and latent-variable analysis.
