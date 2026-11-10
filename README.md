@@ -17,4 +17,4 @@ My research uses longitudinal administrative and survey data to study educationa
 
 ## Current Project: LearnCausal
 I am developing **LearnCausal**, an educational platform designed to make causal inference methods clear, practical, and freely accessible to learners.
-The platform aims to integrate rigorous methodological explanations, interactive visualizations, learning pathways, and applied examples using Stata, R, and Python.
+The platform aims to integrate rigorous methodological explanations, interactive visualizations, learning pathways, and applied examples using R and Python.
