@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile!
-<!--
+
 # About Me
 
 I am a Ph.D. candidate in K–12 Educational Administration at Michigan State University, specializing in quantitative education research, causal inference, and educational leadership.
@@ -16,5 +16,3 @@ My research uses longitudinal administrative and survey data to study educationa
 
 I am developing **LearnCausal**, an educational platform designed to make causal inference methods clear, practical, and freely accessible to learners.
 The platform aims to integrate rigorous methodological explanations, interactive visualizations, learning pathways, and applied examples using Stata, R, and Python.
-
--->
