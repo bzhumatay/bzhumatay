@@ -14,7 +14,6 @@ My research uses longitudinal administrative and survey data to study educationa
 
 **Professional background:** 14 years of K–12 school leadership experience as a principal and vice principal.
 
-&nbsp;
 
 ## Current Project: LearnCausal
 I am developing **LearnCausal**, an educational platform designed to make causal inference methods clear, practical, and freely accessible to learners.
