@@ -1,5 +1,8 @@
 ## Welcome to My GitHub Profile!
 
+Bakhyt Zhumatay
+Quantitative Education Researcher | Causal Inference | Educational Leadership
+
 # About Me
 
 I am a Ph.D. candidate in K–12 Educational Administration at Michigan State University, specializing in quantitative education research, causal inference, and educational leadership.
